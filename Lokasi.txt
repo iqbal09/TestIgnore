@@ -1,0 +1,19 @@
+10-26 10:09:34.107 27425-27425/get.city I/System.out: Get --- Jalan Askela No.248---0
+10-26 10:09:34.107 27425-27425/get.city I/System.out: Get --- Pahlawan---1
+10-26 10:09:34.107 27425-27425/get.city I/System.out: Get --- Binjai Utara---2
+10-26 10:09:34.107 27425-27425/get.city I/System.out: Get --- Kota Binjai---3
+10-26 10:09:34.107 27425-27425/get.city I/System.out: Get --- Sumatera Utara 20351---4
+
+10-26 10:10:43.678 27425-27425/get.city I/System.out: Get --- Jalan Setia Budi No.60 C---0
+10-26 10:10:43.678 27425-27425/get.city I/System.out: Get --- Tanjung Rejo---1
+10-26 10:10:43.680 27425-27425/get.city I/System.out: Get --- Medan Sunggal---2
+10-26 10:10:43.682 27425-27425/get.city I/System.out: Get --- Kota Medan---3
+10-26 10:10:43.684 27425-27425/get.city I/System.out: Get --- Sumatera Utara 20122---4
+
+
+10-26 10:12:17.897 27425-27425/get.city I/System.out: Get --- Jalan Dr.Ide Anak Agung Gde Agung---0
+10-26 10:12:17.898 27425-27425/get.city I/System.out: Get --- Kuningan Timur---1
+10-26 10:12:17.898 27425-27425/get.city I/System.out: Get --- Kecamatan Setiabudi---2
+10-26 10:12:17.898 27425-27425/get.city I/System.out: Get --- Kota Jakarta Selatan---3
+10-26 10:12:17.899 27425-27425/get.city I/System.out: Get --- Daerah Khusus Ibukota Jakarta 12950---4
+
